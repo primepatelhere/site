@@ -28,3 +28,17 @@
     detail: Full Stack Developer
     i18n: company_b_job
   icon: fa-plus-square
+
+  - name:
+      detail: Ramniranjan Jhunjhunwala College
+      i18n: degree_college
+    desc:
+      detail: I worked at Company A ...
+      i18n: degree_college_desc
+    date:
+      detail: Apr. 2016
+      i18n: degree_college_date
+    job:
+      detail: CTO
+      i18n: degree_college_job
+    icon: fa-plus-square
